@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Home">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Student Management System"
+        android:textColor="@color/lavender"
+        android:textStyle="bold"
+        android:paddingTop="34dp"
+        android:paddingHorizontal="11dp"
+        android:textSize="37sp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        android:layout_marginTop="144dp"
+        android:orientation="vertical"
+        >
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="51dp"
+            android:text="Add Student"
+            android:textSize="21sp"
+            android:paddingVertical="11dp"
+            android:gravity="center"
+            android:textColor="@color/white"
+            android:id="@+id/addStudentBtn"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginHorizontal="51dp"
+            android:layout_marginTop="33dp"
+            android:text="View Record"
+            android:textSize="21sp"
+            android:textColor="@color/white"
+            android:paddingVertical="11dp"
+            android:gravity="center"
+            android:id="@+id/viewRecord"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="bottom">
+
+            <!-- Other UI elements here -->
+
+            <Button
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginHorizontal="51dp"
+                android:text="Logout"
+                android:textSize="21sp"
+                android:textColor="@color/white"
+                android:paddingVertical="11dp"
+                android:gravity="center"
+                android:id="@+id/logoutBtn"
+                android:layout_marginBottom="21dp"
+                />
+        </LinearLayout>
+
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

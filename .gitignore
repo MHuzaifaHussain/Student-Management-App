@@ -1,0 +1,53 @@
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# IntelliJ / Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea/caches
+.idea/libraries
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/gradle.xml
+.idea/sonarlint/
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Keystore files (do not share your signing keys!)
+*.jks
+*.keystore
+
+# Other
+captures/
+output.json
+
+# NDK
+obj/
+
+# Crashlytics/Firebase
+crashlytics-build.properties
+fabric.properties
+
+# Android Studio Navigation Editor temp files
+.navigation/
+
+# Generated files by Android Studio
+.cxx/
+
+# Jetpack Compose (if used)
+*.cache/
+.kotlintest/
