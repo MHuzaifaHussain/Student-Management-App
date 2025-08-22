@@ -1,4 +1,4 @@
-# Student Management Android App
+# Student Management System(SMS) Android App
 
 A simple and efficient Android application built with Java for managing student records. The app uses the ROOM persistence library for local data storage and provides full CRUD (Create, Read, Update, Delete) functionality for student data, secured by a local login/signup system.
 
@@ -47,7 +47,7 @@ Here’s a visual walkthrough of the app's core functionalities.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/MHuzaifaHussain/Student-Management-App.git
     ```
 2.  **Open in Android Studio:**
     * Open Android Studio.
