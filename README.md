@@ -22,15 +22,15 @@ Here’s a visual walkthrough of the app's core functionalities.
 
 | Splash Screen                                | Login Screen                           | Signup Screen                            |
 | :------------------------------------------- | :------------------------------------- | :--------------------------------------- |
-| ![Splash Screen](./images/start_SMS.png) | ![Login Screen](./images/login_SMS.png)    | ![Signup Screen](./images/signup_SMS.png)    |
+| ![Splash Screen](./images/start_SMS.jpg) | ![Login Screen](./images/login_SMS.jpg)    | ![Signup Screen](./images/signup_SMS.jpg)    |
 
 | Dashboard                                | Add Student                                  | View All Students                                  |
 | :--------------------------------------- | :------------------------------------------- | :------------------------------------------------- |
-| ![Dashboard](./images/home_SMS.png)     | ![Add Student Form](./images/add_SMS.png) | ![View Students List](./images/view_SMS.png) |
+| ![Dashboard](./images/home_SMS.jpg)     | ![Add Student Form](./images/add_SMS.jpg) | ![View Students List](./images/view_SMS.jpg) |
 
 | Update Student                                     |
 | :------------------------------------------------- |
-| ![Update Student Form](./images/update_SMS.png) |
+| ![Update Student Form](./images/update_SMS.jpg) |
 | *Long-press on a student in the list to trigger the delete option.* |
 
 ---
