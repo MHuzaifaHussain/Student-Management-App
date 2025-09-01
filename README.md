@@ -47,7 +47,7 @@ Here’s a visual walkthrough of the app's core functionalities.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/MHuzaifaHussain/Student-Management-App.git](https://github.com/MHuzaifaHussain/Student-Management-App.git)
+    git clone https://github.com/MHuzaifaHussain/Student-Management-App.git
     ```
 2.  **Open in Android Studio:**
     * Open Android Studio.
