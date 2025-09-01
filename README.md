@@ -20,17 +20,17 @@ A simple and efficient Android application built with Java for managing student 
 
 Here’s a visual walkthrough of the app's core functionalities.
 
-| Splash Screen                                | Login Screen                           | Signup Screen                            |
-| :------------------------------------------- | :------------------------------------- | :--------------------------------------- |
-| ![Splash Screen](./images/start_SMS.jpg) | ![Login Screen](./images/login_SMS.jpg)    | ![Signup Screen](./images/signup_SMS.jpg)    |
+| Splash Screen | Login Screen | Signup Screen |
+| :---: | :---: | :---: |
+| <img src="./images/start_SMS.jpg" alt="Splash Screen" height="400"> | <img src="./images/login_SMS.jpg" alt="Login Screen" height="400"> | <img src="./images/signup_SMS.jpg" alt="Signup Screen" height="400"> |
 
-| Dashboard                                | Add Student                                  | View All Students                                  |
-| :--------------------------------------- | :------------------------------------------- | :------------------------------------------------- |
-| ![Dashboard](./images/home_SMS.jpg)     | ![Add Student Form](./images/add_SMS.jpg) | ![View Students List](./images/view_SMS.jpg) |
+| Dashboard | Add Student | View All Students |
+| :---: | :---: | :---: |
+| <img src="./images/home_SMS.jpg" alt="Dashboard" height="400"> | <img src="./images/add_SMS.jpg" alt="Add Student Form" height="400"> | <img src="./images/view_SMS.jpg" alt="View Students List" height="400"> |
 
-| Update Student                                     |
-| :------------------------------------------------- |
-| ![Update Student Form](./images/update_SMS.jpg) |
+| Update Student |
+| :---: |
+| <img src="./images/update_SMS.jpg" alt="Update Student Form" height="400"> |
 | *Long-press on a student in the list to trigger the delete option.* |
 
 ---
@@ -47,7 +47,7 @@ Here’s a visual walkthrough of the app's core functionalities.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/MHuzaifaHussain/Student-Management-App.git
+    git clone [https://github.com/MHuzaifaHussain/Student-Management-App.git](https://github.com/MHuzaifaHussain/Student-Management-App.git)
     ```
 2.  **Open in Android Studio:**
     * Open Android Studio.
